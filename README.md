@@ -6,3 +6,4 @@ This is my first GitHub project. I am attempting to create a text editor in C fr
 
 Currently at
 https://viewsourcecode.org/snaptoken/kilo/02.enteringRawMode.html
+https://viewsourcecode.org/snaptoken/kilo/03.rawInputAndOutput.html (refactor keyboard input)
